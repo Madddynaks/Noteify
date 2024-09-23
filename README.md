@@ -1,0 +1,2 @@
+# Noteify
+Notes Management Application
